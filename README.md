@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @praggatii
+- 👋 Hi, I’m Pragati Priya
 - 👀 I’m interested in Data Analysis
 - 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on Data realated issue
