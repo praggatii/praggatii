@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Pragati Priya
-- 👀 I’m interested in Data Analysis
+- 👀 I’m interested in Data Analysis || Data Visulaisation || Data Manipulation || Data Engineering
 - 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on Data realated issue
 - 📫 How to reach me through mail
