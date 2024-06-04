@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Analysis || Data Visulaisation || Data Engineering
 - 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on Data realated issue
-- 📫 How to reach me through mail
+- 📫 How to reach me through mail : praggatii09@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: 
 
